@@ -54,7 +54,7 @@ To complete this project, the following core networking concepts were applied:
 Generative AI (e.g., ChatGPT/Claude/Perplexity) was used for the following specific tasks:
 * **Concept Clarification:** Asking for analogies to understand the difference between a Switch and a Router.
 * **Math Verification:** Verifying binary-to-decimal conversions for subnet masks.
-* **Readme Creation** Writing this README and learning the syntax for the first time.
+* **README Creation:** Writing this README and learning the syntax for the first time.
 
 #networking
 #42school
